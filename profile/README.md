@@ -36,7 +36,8 @@ AGPL-3.0.
 
 - **I'm a contractor for a company that's already a member. Do I need my own?**
 
-No. While you work for them, their license covers you.
+No, while you work for them, their license covers what you build and deliver for them.
+For other clients or your own products, you need your own membership or the AGPL-3.0.
 
 - **Do I need one license per project, developer or product?**
 
@@ -87,7 +88,8 @@ stay active. Each release's notes give the end date.
 
 - **I'm using it for a hobby project. Do I need this?**
 
-No. Use it for free under the AGPL-3.0.
+No, you can use it for free under the AGPL-3.0, as long as you follow its terms. The
+commercial license is only for businesses that don't want to follow them.
 
 The full terms are in the `COMMERCIAL-LICENSE` file of each repository; the files in
 each repository control. Third-party components keep their own licenses.
