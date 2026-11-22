@@ -10,7 +10,7 @@ libraries, and tools rather than one-off application code.
 - the **Supprocom Commercial License**, for businesses only, which lets you use the
   projects in closed-source products and services without the AGPL-3.0's obligations.
 
-**To get the commercial license:** join [mkn8rn on Patreon](https://www.patreon.com/cw/mkn8rn)
+**To get the commercial license:** join [mkn8rn on Patreon](https://www.patreon.com/cw/mkn8rn/membership)
 at the tier for your business: EUR 1 a month if you are a one-person business or a
 non-profit, EUR 100 a month for any other business. Patreon sells the membership and
 sends your invoice. Only a Patreon membership gives the license; GitHub sponsorships and
