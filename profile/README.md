@@ -1,5 +1,4 @@
-**Website: [supprocom.github.io](https://supprocom.github.io)**, with licensing, the FAQ, the security
-policy and the privacy notice.
+**Website: [supprocom.github.io](https://supprocom.github.io)**
 
 Supprocom groups projects by their intended role as reusable components,
 libraries, and tools rather than one-off application code.
