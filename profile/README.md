@@ -7,16 +7,11 @@ libraries, and tools rather than one-off application code.
 - the **Supprocom Commercial License**, for businesses only, which lets you use the
   projects in closed-source products and services without the AGPL-3.0's obligations.
 
-**To get the commercial license:**
-
-1. Sponsor [Supprocom](https://github.com/sponsors/Supprocom) monthly from your
-   business's GitHub account: USD 1 a month if you are a one-person business or a
-   non-profit, USD 100 a month for any other business.
-2. Within 30 days, email your business's legal name, address, VAT ID (or tax number)
-   and a contact email to supprocom@mkn8rn.com. If they don't arrive in time, your
-   payments are donations: no license, no invoice, no refund. EU business outside
-   Croatia? Include your VAT ID and ask for the reverse charge, or Croatian VAT is
-   included.
+**To get the commercial license:** join [mkn8rn on Patreon](https://www.patreon.com/cw/mkn8rn)
+at the tier for your business: EUR 1 a month if you are a one-person business or a
+non-profit, EUR 100 a month for any other business. Patreon sells the membership and
+sends your invoice. Only a Patreon membership gives the license; GitHub sponsorships and
+other payments don't.
 
 ### FAQ
 
@@ -24,31 +19,31 @@ These answers are about the commercial license. Under the AGPL-3.0 you can do wh
 you want with the libraries, as long as you follow its terms, such as sharing your source
 code.
 
-- **Do I have to publish my source code or follow any of the AGPL-3.0 terms if I pay and register?**
+- **Do I have to publish my source code or follow any of the AGPL-3.0 terms if I'm a member?**
 
-No; that is what the commercial license is for. Paying without registering your
-business is a donation, and the AGPL-3.0 still applies.
+No; that is what the commercial license is for, while your business holds a membership
+at its tier.
 
 - **Does my client need its own license if I have one?**
 
-No. Your sponsorship covers what you deliver to them. One rule: if the client would
-pay USD 100 itself, you need the USD 100 tier. If the client later wants to change the
-Supprocom code itself, or pass it on, it needs its own sponsorship, or can do so under
+No. Your membership covers what you deliver to them. One rule: if the client would
+pay EUR 100 itself, you need the EUR 100 tier. If the client later wants to change the
+Supprocom code itself, or pass it on, it needs its own membership, or can do so under
 the AGPL-3.0.
 
-- **I'm a contractor for a company that already sponsors. Do I need my own?**
+- **I'm a contractor for a company that's already a member. Do I need my own?**
 
 No. While you work for them, their license covers you.
 
 - **Do I need one license per project, developer or product?**
 
-No. One sponsorship covers every Supprocom project, everyone who works for your
+No. One membership covers every Supprocom project, everyone who works for your
 business, including contractors, and all your products. Each separate company needs its
 own.
 
-- **What happens to software I already delivered if I stop sponsoring?**
+- **What happens to software I already delivered if I end my membership?**
 
-Nothing. Copies delivered while you sponsored stay licensed for your clients and
+Nothing. Copies delivered while you were a member stay licensed for your clients and
 users, as delivered.
 
 - **Can I keep using the libraries after I stop?**
@@ -59,13 +54,17 @@ AGPL-3.0 applies again.
 
 - **My one-person business hired someone. What now?**
 
-Move to the USD 100 tier from the next month.
+Move to the EUR 100 tier from the next month.
 
 - **Do I get invoices?**
 
-Yes, in euros equivalent to the conversion rate set by the Croatian National Bank on
-the day of invoicing. Send your details within 30 days and every payment is invoiced
-from your first one.
+Yes, from Patreon. Patreon sells the membership, so your invoice or receipt comes from
+Patreon, with any VAT on it.
+
+- **Does a GitHub sponsorship give me the license?**
+
+No. Sponsoring mkn8rn on GitHub is a donation. Only a Patreon membership gives the
+license.
 
 - **Can I use AI coding assistants on code that uses these libraries?**
 
