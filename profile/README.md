@@ -43,7 +43,8 @@ No. While you work for them, their license covers you.
 - **Do I need one license per project, developer or product?**
 
 No. One sponsorship covers every Supprocom project, everyone who works for your
-business, and all your products. Each separate company needs its own.
+business, including contractors, and all your products. Each separate company needs its
+own.
 
 - **What happens to software I already delivered if I stop sponsoring?**
 
