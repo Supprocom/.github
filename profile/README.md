@@ -24,15 +24,15 @@ code.
 
 - **Do I have to publish my source code or follow any of the AGPL-3.0 terms if I'm a member?**
 
-No; that is what the commercial license is for, while your business holds a membership
-at its tier.
+No. While your business holds a membership at its tier, the commercial license applies
+instead.
 
 - **Does my client need its own license if I have one?**
 
-No. Your membership covers what you deliver to them. One rule: if the client would
-pay EUR 100 itself, you need the EUR 100 tier. If the client later wants to change the
-Supprocom code itself, or pass it on, it needs its own membership, or can do so under
-the AGPL-3.0.
+No, your membership covers what you deliver to them, but if the client would pay EUR 100
+itself, you need the EUR 100 tier. If the client later changes or passes on the
+Supprocom code itself, it needs its own membership, or can use the code under the
+AGPL-3.0.
 
 - **I'm a contractor for a company that's already a member. Do I need my own?**
 
@@ -40,9 +40,8 @@ No. While you work for them, their license covers you.
 
 - **Do I need one license per project, developer or product?**
 
-No. One membership covers every Supprocom project, everyone who works for your
-business, including contractors, and all your products. Each separate company needs its
-own.
+No, one membership covers every Supprocom project, everyone who works for your business
+and all your products. Each separate company needs its own.
 
 - **What happens to software I already delivered if I end my membership?**
 
@@ -51,45 +50,44 @@ users, as delivered.
 
 - **Can I keep using the libraries after I stop?**
 
-Yes, for versions you have earned: once you have paid 12 months in a row after a
-version's release, that version is yours to keep for good. For anything else, the
-AGPL-3.0 applies again.
+Yes: after 12 paid months in a row, you keep the versions released before those 12
+months began. For anything else, the AGPL-3.0 applies again.
 
 - **My one-person business hired someone. What now?**
 
-Move to the EUR 100 tier from the next month.
+Move to the EUR 100 tier from the next month. The EUR 1 tier is only for a business
+where you are the only person working.
 
 - **Do I get invoices?**
 
-Yes, from Patreon. Patreon sells the membership, so your invoice or receipt comes from
-Patreon, with any VAT on it.
+Yes, from Patreon. Patreon sells the membership, so it issues your invoice or receipt,
+with any VAT on it.
 
 - **Does a GitHub sponsorship give me the license?**
 
-No. Sponsoring mkn8rn on GitHub is a donation. Only a Patreon membership gives the
+No, sponsoring mkn8rn on GitHub is a donation. Only a Patreon membership gives the
 license.
 
 - **Can I use AI coding assistants on code that uses these libraries?**
 
-Yes. Just take reasonable steps so the provider doesn't train on your code, such as
-turning training off in its settings or using its business plan. What you can't do under
-the commercial license is use the libraries themselves to train AI models; under the
-AGPL-3.0 you can.
+Yes, if you take reasonable steps so the provider doesn't train on your code, such as
+turning training off. Only training AI models on the libraries themselves is ruled out
+under the commercial license.
 
 - **What can't I do?**
 
-Sell or license the libraries on their own, or train AI models on them, unless you're
-doing so under the AGPL-3.0 terms. Under either license, keep the copyright notices.
-Building and selling your own products and services with them is fine.
+Under the commercial license, you can't sell or license the libraries on their own or
+train AI models on them, and under either license you keep the copyright notices.
+Building and selling your own products with them is fine.
 
 - **Do I get security fixes?**
 
-Yes, free, for five years from each version's release, while Supprocom is active and
-the business is still active. The end date is in each release's notes.
+Yes, free for five years from each version's release, while Supprocom and its business
+stay active. Each release's notes give the end date.
 
 - **I'm using it for a hobby project. Do I need this?**
 
-No. Use it under the AGPL-3.0 for free.
+No. Use it for free under the AGPL-3.0.
 
 The full terms are in the `COMMERCIAL-LICENSE` file of each repository; the files in
 each repository control. Third-party components keep their own licenses.
